@@ -8,7 +8,7 @@ Churn Prediction model helps organizations to take necessary steps and action to
 . pip install matplotlib.   
 . pip install sklearn.  
 . pip install tensorflow. 
-. pip install keras.   
+. pip install keras.       
 
 
 # Acknowledgements
